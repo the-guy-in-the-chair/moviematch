@@ -5,5 +5,5 @@ A simple tool to help match unnamed files to a movie and its special features.
 - add requirements.txt file
 - add support for multiple '-'
 - finish the renaming functionality
-- add nfo creation support
+- add nfo file creation
 - add UI
